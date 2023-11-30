@@ -1,5 +1,5 @@
 # calculadora-de-partidas-rankeadas
-**Segundoo Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero utilizando a linguagem Javascript e o VS Code.**
+**Segundoo Desafio proposto pela DIO do Bootcamp Potência Tech ifood-Programação do Zero utilizando a linguagem JavaScript e o VS Code.**
 
 # 2️⃣ Calculadora de Partidas Rankeadas
 ## Objetivo
